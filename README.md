@@ -1104,10 +1104,6 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
-#EXTINF:-1 group-title="INTERNATIONAL NEWS", Rai Italia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
-
 #EXTINF:-1 group-title="INTERNATIONAL NEWS", TRT World
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1863,6 +1859,10 @@ https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema
 http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Rai Italia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Baywatch (21+)
 https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8
