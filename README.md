@@ -779,8 +779,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://flv.intechmedia.net/live/ch111.m3u8
 
 #EXTINF:-1 group-title="LOCAL", MetroTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:-1 group-title="LOCAL", MNCTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1163,7 +1164,16 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 http://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #EXTINF:-1 group-title="INTERNATIONAL NEWS", Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#EXTINF:-1 group-title="INTERNATIONAL NEWS", NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 group-title="INTERNATIONAL NEWS", Russia Today
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1200,6 +1210,9 @@ http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE", History
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 ##http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/144853
+
+#EXTINF:-1 group-title="KNOWLEDGE", TRVL Channel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Filmrise True Crime
 https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
@@ -1418,6 +1431,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT", aXs TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT", Hunan TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#EXTINF:-1 group-title="ENTERTAINMENT", ent
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
 #EXTINF:-1 group-title="ENTERTAINMENT", Deal or No Deal
 https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
 
@@ -1540,6 +1568,18 @@ https://hls.seatoday.com/hls_hd/seatoday.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Live_Streaming_1
+
+#EXTINF:-1 group-title="SPORT", Japan Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="SPORT", Japan Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="SPORT", Japan Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="SPORT", Japan Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="SPORT", W-Sport
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1928,6 +1968,12 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Indonesian Movie Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", KIX
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
