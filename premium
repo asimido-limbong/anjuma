@@ -2107,6 +2107,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOFamily.m3u8
 
+#EXTINF:-1 group-title="HBO GROUP", HBO Signature
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
