@@ -1477,17 +1477,7 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Dunia Lain
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
-
-#EXTINF:-1 group-title="ENTERTAINMENT", Dunia Games
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
+https://z88.ubtvfans.com/live/rx4/2946/7615d15483d281cc01cff8e5ac943d1f/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", EBS 1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1516,18 +1506,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT", KIX
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT", Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT", Rock Entertainment
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", SBSTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1548,9 +1528,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fear Factor
 https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT", Game Show Central
-https://apollo.production-public.tubi.io/live/ac-game-show-central.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Sea Today
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1934,6 +1911,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
+#EXTINF:-1 group-title="PREMIUM", Rock Entertainment
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+
 #EXTINF:-1 group-title="PREMIUM MOVIE", tvN Movies
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -2234,23 +2216,3 @@ https://i.klikhost.com/9610/stream
 
 
 #EXTM3U billed-msg="📌REFRESH Channel DENGAN KLIK ICON Power DI BAWAH ICON ⚙️"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
