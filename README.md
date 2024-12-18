@@ -921,16 +921,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS", Fun Planet
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
-#EXTINF:-1 group-title="KIDS", HOREE!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
-
 #EXTINF:-1 group-title="KIDS", Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -955,7 +945,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-New
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
-#EXTINF:-1 group-title="KIDS", Nick Jr. Asia
+#EXTINF:-1 group-title="KIDS", Nickelodeon Junior
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -968,11 +958,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.m
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#EXTINF:-1 group-title="KIDS", Nickelodeon Junior
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 group-title="KIDS", Cinemachi Kids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1001,9 +986,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 group-title="KIDS", Zoo Moo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS", My Kids
-http://rr.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 group-title="KIDS", Toon Googles
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700000/index.m3u8
