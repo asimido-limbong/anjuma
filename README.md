@@ -1187,9 +1187,6 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
-#EXTINF:-1 group-title="INTERNATIONAL NEWS", Channel News Asia
-http://210.210.155.35/uq2663/h/h29/01.m3u8
-
 
 
 
