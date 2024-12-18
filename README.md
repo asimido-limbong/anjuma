@@ -987,9 +987,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS", Toon Googles
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700000/index.m3u8
-
 
 
 
