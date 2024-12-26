@@ -1431,9 +1431,6 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Dunia Lain
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
-
-#EXTINF:-1 group-title="ENTERTAINMENT", Dunia Lain 1
 https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
 
 #EXTINF:-1 group-title="ENTERTAINMENT", EBS 1
