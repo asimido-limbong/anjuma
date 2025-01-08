@@ -762,10 +762,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCAL", Jowo Channel
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
-
-#EXTINF:-1 group-title="LOCAL", Jowo Channel 1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
