@@ -2092,10 +2092,6 @@ http://onlineradiobox.com/json/id/female/play
 #EXTINF:-1 group-title="RADIO", Delta FM
 http://onlineradiobox.com/json/id/deltafm/play
 
-#EXTINF:-1 group-title="RADIO", DMI
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://radione.top:8000/dmi
-
 #EXTINF:-1 group-title="RADIO", Nasional FM
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
