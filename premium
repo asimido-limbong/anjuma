@@ -1206,7 +1206,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-http://iptv12k.com:35461/80236053010/645789/633
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1317,19 +1317,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", TLC
-https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE", TLC 1
-https://github.com/openwindows037/sri-tv/raw/main/tlc.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE", TLC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7r0ahjZ99sLEqtcLemFlqQ","kid":"q6yeC_K0SPiHEUWCnGin_Q"}],"type":"temporary"}
-https://atemeshield1-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
-
-#EXTINF:-1 group-title="KNOWLEDGE", TLC 3
-https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Wild Earth
