@@ -1233,7 +1233,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltre
 http://stream02.vnet.am/NationalGeographic/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic 1
-http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/91/stream.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic 2
 
@@ -1269,13 +1269,13 @@ https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Channel
-https://livetv.mylifeisgood.ml/channels/discovery
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Turbo
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Science
-https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Cold Case Files
 https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
@@ -1285,9 +1285,6 @@ https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", BBC Home & Garden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
-
-#EXTINF:-1 group-title="KNOWLEDGE", HGTV
-
 
 #EXTINF:-1 group-title="KNOWLEDGE", Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1332,8 +1329,6 @@ https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
-
-#EXTINF:-1 group-title="KNOWLEDGE", DMAX
 
 
 
