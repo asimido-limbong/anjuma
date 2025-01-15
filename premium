@@ -1233,7 +1233,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltre
 http://stream02.vnet.am/NationalGeographic/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic 1
-
+http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/91/stream.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic 2
 
@@ -1269,13 +1269,13 @@ https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Channel
-
+https://livetv.mylifeisgood.ml/channels/discovery
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Turbo
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Science
-
+https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Cold Case Files
 https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
@@ -1438,9 +1438,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT", Nature
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fear Factor
 https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8
