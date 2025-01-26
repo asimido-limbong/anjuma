@@ -1255,13 +1255,15 @@ https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Channel
-
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium313/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Turbo
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Science
-
+http://tkosportz.live:25461/live/swilder2023/6063815781/10389.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Cold Case Files
 https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
@@ -1300,7 +1302,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", TLC
-
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium337/index.m3u8
+#http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571189
 
 #EXTINF:-1 group-title="KNOWLEDGE", Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
