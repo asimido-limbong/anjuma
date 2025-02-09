@@ -1926,16 +1926,20 @@ http://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mp
 #####################
 
 #EXTINF:-1 group-title="HBO GROUP", HBO
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Family
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Signature
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
 
 #EXTINF:-1 group-title="HBO GROUP", Cinemax
 
