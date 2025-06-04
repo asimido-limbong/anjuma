@@ -848,9 +848,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT", Deal or No Deal
-https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT", DENS Play
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -860,6 +857,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT", Deal or No Deal
+https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", EBS 1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -878,11 +878,11 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/bd8f1eaade6782c3ad8c6916f840f89052a2c590/700a192f4d09363.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV UHD (21+)
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV Midnight Secrets (21+)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV UHD (21+)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fear Factor
 https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8
@@ -922,14 +922,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT", LOL! Network
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT", Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
-
-#EXTINF:-1 group-title="ENTERTAINMENT", LOL! Network
-https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Sea Today
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -966,49 +966,49 @@ https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 #####################
-###***FOOD CHANNEL***###
+###***FOOD***###
 #####################
 
-#EXTINF:-1 group-title="FOOD CHANNEL", America's Test Kitchen
+#EXTINF:-1 group-title="FOOD", America's Test Kitchen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051
 
-#EXTINF:-1 group-title="FOOD CHANNEL", Asian Food Network
+#EXTINF:-1 group-title="FOOD", Asian Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 group-title="FOOD CHANNEL", BBC Food
+#EXTINF:-1 group-title="FOOD", BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
 
-#EXTINF:-1 group-title="FOOD CHANNEL", DENS Food Channel
+#EXTINF:-1 group-title="FOOD", DENS Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 group-title="FOOD CHANNEL", DENS Life & Style
+#EXTINF:-1 group-title="FOOD", DENS Life & Style
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
-#EXTINF:-1 group-title="FOOD CHANNEL", Food Network
+#EXTINF:-1 group-title="FOOD", Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
-#EXTINF:-1 group-title="FOOD CHANNEL", Food Travel
+#EXTINF:-1 group-title="FOOD", Food Travel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://202.147.193.244/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
 
-#EXTINF:-1 group-title="FOOD CHANNEL", Foodies
+#EXTINF:-1 group-title="FOOD", Foodies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1858ec57-4da6-4f94-af3c-b2e9664fa9f4
 
-#EXTINF:-1 group-title="FOOD CHANNEL", TLC
+#EXTINF:-1 group-title="FOOD", TLC
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
@@ -1030,6 +1030,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 ###***HBO GROUP***###
 #####################
 
+#EXTINF:-1 group-title="HBO GROUP", Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
 #EXTINF:-1 group-title="HBO GROUP", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1037,14 +1045,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTINF:-1 group-title="HBO GROUP", HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1054,6 +1054,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
+#EXTINF:-1 group-title="HBO GROUP", HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
 #EXTINF:-1 group-title="HBO GROUP", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1061,14 +1069,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTINF:-1 group-title="HBO GROUP", Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 
@@ -1089,11 +1089,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", ANTV 
 http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Bali TV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
-
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
@@ -1101,6 +1096,11 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Bali TV
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
@@ -1112,11 +1112,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
-
-#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", MNC TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -1130,7 +1125,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", IDX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Indonesiana TV 
@@ -1145,11 +1139,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", JITV Jogja
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", JAK TV
-##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-##https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
+https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Jawapos TV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1158,14 +1160,6 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", JITV Jogja
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Kompas TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1233,15 +1227,15 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
-#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", TransTV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
-
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Trans7
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", TransTV
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", iNews (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1327,7 +1321,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 group-title="INTERNATIONAL NEWS", Global News
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 
-#EXTINF:-1 group-title="INTERNATIONAL NEWS", Jakarta GlobeNews Channel
+#EXTINF:-1 group-title="INTERNATIONAL NEWS", Jakarta Globe News Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
@@ -1383,16 +1377,21 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 ###***KIDS***###
 #################
 
-#EXTINF:-1 group-title="KIDS", Aniplus
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
-
 #EXTINF:-1 group-title="KIDS", Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+#EXTINF:-1 group-title="KIDS", Aniplus
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+
+#EXTINF:-1 group-title="KIDS", CBeebies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
 #EXTINF:-1 group-title="KIDS", Cartoon Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1405,11 +1404,6 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
-
-#EXTINF:-1 group-title="KIDS", CBeebies
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
 #EXTINF:-1 group-title="KIDS", Dora TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
@@ -1466,13 +1460,13 @@ https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS", Viva TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch107.m3u8
-
 #EXTINF:-1 group-title="KIDS", VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=vtv  
+
+#EXTINF:-1 group-title="KIDS", Viva TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 group-title="KIDS", Zoo Moo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1582,7 +1576,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 ##http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/144853
 
-#EXTINF:-1 group-title="KNOWLEDGE", History Sub Indonesian
+#EXTINF:-1 group-title="KNOWLEDGE", History Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
@@ -1606,11 +1600,302 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 
 
+#########################
+###***MUSIC***###
+#########################
+
+#EXTINF:-1 group-title="MUSIC", 3ABN Praise Him Music Network ✝️
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Clubbing TV
+https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Deluxe Music 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 group-title="MUSIC", IMTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", MTV 90's
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
+
+#EXTINF:-1 group-title="MUSIC", MTV Live 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
+#EXTINF:-1 group-title="MUSIC", Maleo
+#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Music TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+
+#EXTINF:-1 group-title="MUSIC",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", POP Music
+#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Vevo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Vevo 90's
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 
 
 
 
 
+
+
+
+
+
+
+
+
+#########################
+###***PREMIUM MOVIE***###
+#########################
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", AXN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Baywatch (21+)
+https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Bollywood HD 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Buddy Star 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Celestial Classic
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Celestial Movies
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Cineedge
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Citra Drama
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Filem Mantap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Filmrise Horror
+https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Galaxy Premium
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Hits
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Hits Movies
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Indonesia Movie Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", KIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema Asia
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema Europe
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", My Family Channel
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Oh My Ceria!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Originals
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Sony Max 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Studio Universal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd 
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Superrix
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Thriil
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Uniquest
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Zee Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################
+###***INTERNET RADIO***###
+#################
+
+#EXTINF:-1 group-title="INTERNET RADIO", Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 group-title="INTERNET RADIO", Delta FM
+http://onlineradiobox.com/json/id/deltafm/play
+
+#EXTINF:-1 group-title="INTERNET RADIO", Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 group-title="INTERNET RADIO", Female FM
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 group-title="INTERNET RADIO", Hard Rock FM
+http://onlineradiobox.com/json/id/hardrockjakarta/play
+
+#EXTINF:-1 group-title="INTERNET RADIO", I-Radio Jogja
+https://stream.radiojar.com/hnf2cbv80k8uv
+
+#EXTINF:-1 group-title="INTERNET RADIO", Nasional FM
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNET RADIO", POP FM Jogja
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://i.klikhost.com/9154/stream
+
+#EXTINF:-1 group-title="INTERNET RADIO", Pelangi FM
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNET RADIO", Pilihan FM
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNET RADIO", Trax FM
+http://onlineradiobox.com/json/id/trax/play
+
+#EXTINF:-1 group-title="INTERNET RADIO", RCT FM
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://i.klikhost.com/9614/stream
+
+#EXTINF:-1 group-title="INTERNET RADIO", RRI Pro 2 Yogyakarta
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro2.mp3
+
+#EXTINF:-1 group-title="INTERNET RADIO", RRI VOI
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+
+#EXTINF:-1 group-title="INTERNET RADIO", Yasika FM Jogja
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://i.klikhost.com/9610/stream
 
 
 
@@ -1665,10 +1950,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
-
-
-
-
 
 
 
@@ -1867,58 +2148,19 @@ https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 
 
-#########################
-###***MUSIC CHANNEL***###
-#########################
 
-#EXTINF:-1 group-title="MUSIC", 3ABN Praise Him Music Network ✝️
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Clubbing TV
-https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Deluxe Music 
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 group-title="MUSIC", IMTV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Maleo
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", MTV 90's
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
 
-#EXTINF:-1 group-title="MUSIC", MTV Live 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-#EXTINF:-1 group-title="MUSIC", Music TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
-#EXTINF:-1 group-title="MUSIC",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", POP Music
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Vevo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Vevo 90's
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 
 
 
@@ -1929,256 +2171,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 
-#########################
-###***PREMIUM MOVIE***###
-#########################
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", Baywatch (21+)
-https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", Filmrise Horror
-https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", Hits
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
-https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", Hits Movies
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", AXN
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", AXN HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
-#https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", Studio Universal 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd 
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Galaxy
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Galaxy Premium
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Indonesia Movie Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Citra Bioskop
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Citra Drama
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", KIX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Thriil
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema Europe
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", Celestial Movies
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Celestial Classic
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema Asia
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", My Family Channel
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Originals
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Buddy Star 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Cineedge
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Superrix
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Uniquest
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Zee Bioskop
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Sony Max 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Bollywood HD 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Filem Mantap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Oh My Ceria!
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Mediacorp Entertainment English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", Dunia Sinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#################
-###***RADIO***###
-#################
-
-#EXTINF:-1 group-title="RADIO", Prambors
-http://onlineradiobox.com/json/id/prambors/play
-
-#EXTINF:-1 group-title="RADIO", I Radio
-http://stream.radiojar.com/4ywdgup3bnzuv
-
-#EXTINF:-1 group-title="RADIO", Trax FM
-http://onlineradiobox.com/json/id/trax/play
-
-#EXTINF:-1 group-title="RADIO", Cosmopolitan FM
-http://n02.radiojar.com/u7d8heq3bnzuv
-
-#EXTINF:-1 group-title="RADIO", Elshinta FM
-https://stream-ssl.arenastreaming.com:8000/jakarta
-
-#EXTINF:-1 group-title="RADIO", Hard Rock FM
-http://onlineradiobox.com/json/id/hardrockjakarta/play
-
-#EXTINF:-1 group-title="RADIO", Female FM
-http://onlineradiobox.com/json/id/female/play
-
-#EXTINF:-1 group-title="RADIO", Delta FM
-http://onlineradiobox.com/json/id/deltafm/play
-
-#EXTINF:-1 group-title="RADIO", Nasional FM
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
-
-#EXTINF:-1 group-title="RADIO", Pelangi FM
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
-
-#EXTINF:-1 group-title="RADIO", Pilihan FM
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
-
-#EXTINF:-1 group-title="RADIO", POP FM Jogja
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://i.klikhost.com/9154/stream
-
-#EXTINF:-1 group-title="RADIO", RCT FM
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://i.klikhost.com/9614/stream
-
-#EXTINF:-1 group-title="RADIO", RRI Pro 2 Yogyakarta
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro2.mp3
-
-#EXTINF:-1 group-title="RADIO", RRI VOI
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
-
-#EXTINF:-1 group-title="RADIO", Yasika FM Jogja
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://i.klikhost.com/9610/stream
 
 
 
