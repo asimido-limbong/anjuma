@@ -696,100 +696,100 @@
 #EXTM3U 
 
 #####################
-###***🇨🇳| CHINA CHANNEL***###
+###***CHINA CHANNEL |🇨🇳***###
 #####################
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Anhui TV
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Anhui TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
 https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", CCTV 4
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", CCTV 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Dragon TV
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Douyu Bioskop 1
+http://epg.112114.xyz/douyu/20415
+
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Douyu Bioskop 2
+http://epg.112114.xyz/douyu/2793084
+
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Douyu Bioskop 3
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Dragon TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Hunan TV
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Hunan TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Jiangsu TV
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Jiangsu TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Shenzen TV
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Shenzen TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", TVB Xing He
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", TVB Xing He
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", TVBS Asia
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", TVBS Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", TVBS News
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", TVBS News
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Zhejiang TV
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Zhejiang TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
 https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Douyu Bioskop 1
-http://epg.112114.xyz/douyu/20415
-
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Douyu Bioskop 2
-http://epg.112114.xyz/douyu/2793084
-
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", Douyu Bioskop 3
-http://epg.112114.xyz/douyu/4332
-
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 之江纪录
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 浙江国际
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 浙江少儿
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 浙江教科
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 浙江新闻
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 浙江民生
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 浙江经济
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 
-#EXTINF:-1 group-title="🇨🇳| CHINA CHANNEL", 浙江钱江
+#EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", 浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
@@ -1083,75 +1083,75 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 #################
-###***🇮🇩| INDONESIA CHANNEL***###
+###***INDONESIA CHANNEL |🇮🇩***###
 #################
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", ANTV 
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", ANTV 
 http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Bali TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Bali TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", BN Channel
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", BTV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", CNBC Indonesia
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", CNN Indonesia
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", DAAI TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", DAAI TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", MNC TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", GTV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Garuda TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", IDX
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", IDX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Indonesiana TV 
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Indosiar  
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Indosiar  
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Inspira TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", JAK TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", JAK TV
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 ##https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Jawapos TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Jawapos TV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -1159,7 +1159,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", JITV Jogja
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", JITV Jogja
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -1167,38 +1167,38 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Kompas TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Kompas TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", MAGNA TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w942100365_b1128000_sleng.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", MDTV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", MDTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", MNCTV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", MOJI TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", MOJI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Metro TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Nusantara TV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Nusantara TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
@@ -1213,44 +1213,44 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", SCTV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Sindo News
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Sindo News
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", TVRI
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", TVRI
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", TVRI World
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", TransTV
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", TransTV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", Trans7
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Trans7
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", iNews (V+)
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", iNews (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="🇮🇩| INDONESIA CHANNEL", tvOne
+#EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", tvOne
 http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 
