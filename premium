@@ -2003,7 +2003,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid
 ###***SPORT***###
 #################
 
-#EXTINF:-1 group-title="SPORT", Billiard Tv 
+#EXTINF:-1 group-title="SPORT", Billiard TV 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
 
 #EXTINF:-1 group-title="SPORT", Eurosport Asia
