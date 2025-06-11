@@ -1150,13 +1150,13 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 _____________________________________________________
 
-#EXTINF:-1 group-title="HBO GROUP", Cinemax |🇺🇸 (21+)
+#EXTINF:-1 group-title="HBO GROUP", Cinemax |🇺🇸
 https://fl1.moveonjoy.com/CINEMAX_WEST/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="HBO GROUP", HBO 1 |🇺🇸 (21+)
+#EXTINF:-1 group-title="HBO GROUP", HBO 1 |🇺🇸
 https://fl1.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="HBO GROUP", HBO 2 |🇺🇸 (21+)
+#EXTINF:-1 group-title="HBO GROUP", HBO 2 |🇺🇸
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 
 
