@@ -1111,30 +1111,20 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 _____________________________________________________
 
 #EXTINF:-1 group-title="HBO GROUP", Cinemax |🇺🇸
-https://fl1.moveonjoy.com/CINEMAX_WEST/tracks-v1a1/mono.m3u8
+http://212.102.60.231:80/CINEMAX/index.m3u8
 
 #EXTINF:-1 group-title="HBO GROUP", HBO 1 |🇺🇸
-https://fl1.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8
+http://212.102.60.231:80/HBO/index.m3u8
 
 #EXTINF:-1 group-title="HBO GROUP", HBO 2 |🇺🇸
-https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+http://212.102.60.231/HBO_2/index.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP", Action Hollywood Movies |🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 _____________________________________________________
 
-#EXTINF:-1 group-title="HBO GROUP", Cinemax |🇨🇳
-http://212.102.60.231:80/CINEMAX/index.m3u8
 
-#EXTINF:-1 group-title="HBO GROUP", HBO 1 |🇨🇳
-http://212.102.60.231:80/HBO/index.m3u8
-
-#EXTINF:-1 group-title="HBO GROUP", HBO 2 |🇨🇳
-http://212.102.60.231/HBO_2/index.m3u8
-
-#EXTINF:-1 group-title="HBO GROUP", Action Hollywood Movies |🇨🇳
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="HBO GROUP", American Hereos Channel |🇨🇳
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 
 
