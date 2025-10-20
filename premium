@@ -779,7 +779,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 #########################
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Always Funny Videos
-https://jmp2.uk/sam-USBA1600001XM.m3u8
+https://live-manifest.production-public.tubi.io/live/2a9a5e3a-cd9d-4042-a122-05e39cc32016/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT", Anger Management
+https://live-manifest.production-public.tubi.io/live/804eb2e2-ab2a-40e0-98d3-a1bbe30df114/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Arirang
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -823,10 +826,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Deal or No Deal
-https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Dunia Lain
-#http://tvkuonline.my.id:25461/riyad/riyad/435
+http://iptvid.my.id/avc/Mastam/mastam123/dunialain.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", EBS 1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -837,7 +840,7 @@ https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", FYI
-https://fl5.moveonjoy.com/FYI/index.m3u8
+http://kstv.us:8080/live/Babeboi11/9785992589/23308.ts
 
 #EXTINF:-1 group-title="ENTERTAINMENT", FashionTV 🟢 (21+) 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -849,18 +852,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV UHD (21+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="FashionTV.id" tvg-name="FashionTV.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/fashiontv.jpg" group-title="LIFESTYLE", FASHION TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Lifestyle/playlist.m3u8
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV 🔴 (21+)
-http://212.102.60.231:80/National_Geographic/index.m3u8
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fear Factor
-https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca62-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e31f1ad3-d53a-4c8d-9e63-079c41a20d98
 
 #EXTINF:-1 group-title="ENTERTAINMENT", First Lifestyle
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -871,21 +869,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifesty
 #EXTINF:-1 group-title="ENTERTAINMENT", Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT", Hanacaraka TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
-
 #EXTINF:-1 group-title="ENTERTAINMENT", Hits Now
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags TV
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags US
+https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 
 #EXTINF:-1 group-title="ENTERTAINMENT", K+ Korean Entertainment
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -903,7 +900,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", LOL! Network
-https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+https://live-manifest.production-public.tubi.io/live/033e7a54-a70a-4324-a920-84f22e686ee5/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -920,13 +917,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT", Sea Today
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0 
-https://legacy-global-cdn.visionplus.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
-
 #EXTINF:-1 group-title="ENTERTAINMENT", Stand-Up TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33a4d320-29a2-4c88-9bcb-84a407b88251
+https://live-manifest.production-public.tubi.io/live/48108ea3-14f0-4a1c-b787-eff8ffd5398d/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", TV5 Monde Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -979,7 +971,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTINF:-1 group-title="FOOD", BBC Food
-https://jmp2.uk/sam-USBC6000108Z.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_channelId=99951177
 
 #EXTINF:-1 group-title="FOOD", DENS Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -994,17 +986,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTINF:-1 group-title="FOOD", Food Travel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://202.147.193.244/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 
 #EXTINF:-1 group-title="FOOD", TLC
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+https://ktpremium.com:443/mkt1420/568765164/26285
+
+
 
 
 
@@ -1673,10 +1660,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #####################
 
 #EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+http://212.102.60.231:80/Animal_Planet/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -1793,15 +1777,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #EXTINF:-1 group-title="KNOWLEDGE", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE", National Geographic USA
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE", National Geographic
+http://212.102.60.231:80/National_Geographic/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geograpic Wild
-https://fl5.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
+http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="KNOWLEDGE", Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 
 
