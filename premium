@@ -840,9 +840,9 @@ https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 https://fl5.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", FashionTV 🟢 (21+) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV Midnight Secrets (21+)
@@ -857,10 +857,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Lifestyle/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV 🔴 (21+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
+http://212.102.60.231:80/National_Geographic/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fear Factor
 https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8
