@@ -891,7 +891,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", LOL! Network
-https://live-manifest.production-public.tubi.io/live/033e7a54-a70a-4324-a920-84f22e686ee5/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
