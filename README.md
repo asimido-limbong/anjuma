@@ -779,10 +779,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 #########################
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Always Funny Videos
-
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Anger Management
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7950-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3058913d-2c94-48ef-9802-0dd55d2f6591
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Arirang
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -795,8 +795,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Channel Jowo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -829,7 +828,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Dunia Lain
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", EBS 1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -851,8 +850,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV Midnight Secrets (21+)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV International (21+)
+https://fash5043.bstrm.net/sftv2/44007/hd/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT", Fear Factor
-https://live-manifest.production-public.tubi.io/live/add4b9f5-c278-4844-8885-9611a4cc9eeb/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", First Lifestyle
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -869,7 +871,7 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
 
-#EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags US
+#EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags |🇺🇸
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags TV
@@ -889,9 +891,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT", LOL! Network
-
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -977,7 +976,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTINF:-1 group-title="FOOD", Food Travel
-https://av-ch-cdn.mncnow.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
+
 
 #EXTINF:-1 group-title="FOOD", TLC
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1117,22 +1116,34 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 _____________________________________________________
 
+#EXTINF:-1 group-title="HBO GROUP", Action Hollywood Movies |🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="HBO GROUP", Cinemax |🇺🇸
 http://212.102.60.231:80/CINEMAX/index.m3u8
 
-#EXTINF:-1 group-title="HBO GROUP", HBO 1 |🇺🇸
+#EXTINF:-1 group-title="HBO GROUP", HBO 1 (East) |🇺🇸
 http://212.102.60.231:80/HBO/index.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP", HBO 1 (West) |🇺🇸
+http://visitmy.collegefan.org:80/live/os7148/os1234/814432.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO 2 |🇺🇸
 http://212.102.60.231/HBO_2/index.m3u8
 
-#EXTINF:-1 group-title="HBO GROUP", Action Hollywood Movies |🇺🇸
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="HBO GROUP", HBO Comedy (West) |🇺🇸
+http://visitmy.collegefan.org:80/live/os7148/os1234/814427.ts
+
+#EXTINF:-1 group-title="HBO GROUP", HBO Comedy (East) |🇺🇸
+http://visitmy.collegefan.org:80/live/os7148/os1234/814426.ts
 
 _____________________________________________________
 
+#EXTINF:-1 group-title="HBO GROUP", HBO 1 (North) |🇨🇦
+http://xxip25.top:8080/live/char@dot.com/char@14223/57437.ts
 
-
+#EXTINF:-1 group-title="HBO GROUP", HBO 2 (North) |🇨🇦
+http://xxip25.top:8080/live/char@dot.com/char@14223/57438.ts
 
 
 
@@ -1877,7 +1888,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Baywatch (21+)
-https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8
+https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Bollywood HD 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
