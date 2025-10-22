@@ -1188,9 +1188,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", Bali TV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL |🇮🇩", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
@@ -1662,7 +1660,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://212.102.60.231:80/Animal_Planet/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", BBC Earth
-
+https://stitcher.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=92be6a93-aede-11f0-a32b-421597027c1a
 
 #EXTINF:-1 group-title="KNOWLEDGE", BBC Home & Garden
 
@@ -1719,29 +1717,26 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE", Discovery Channel |🇺🇸
-
-
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Family |🇺🇸
-
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129865.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Life |🇺🇸
-
+http://kstv.us:8080/live/Babeboi11/9785992589/23333.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Sciense |🇺🇸
-
+http://kstv.us:8080/live/Babeboi11/9785992589/15961.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Dog the Bounty Hunter 
-
+https://live-manifest.production-public.tubi.io/live/acaa98b5-9c41-4a5c-98e3-ec7f0adf794c/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", FBI Files
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Filmrise True Crime
-
+https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Forensic Files
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
 
 #EXTINF:-1 group-title="KNOWLEDGE", Global Trekker
 
@@ -1763,7 +1758,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=92be6a93-aede-11f0-a32b-421597027c1a
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic
 http://212.102.60.231:80/National_Geographic/index.m3u8
@@ -1801,10 +1796,10 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Clubbing TV
-https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC", Deluxe Music 
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC", IMTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1829,8 +1824,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
+#EXTINF:-1 group-title="MUSIC", Musik Indonesia
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+
 #EXTINF:-1 group-title="MUSIC",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -1839,7 +1837,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MUSIC", Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist_sltur.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC", Retro Music Television
 
