@@ -1657,7 +1657,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #####################
 
 #EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-http://212.102.60.231:80/Animal_Planet/index.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", BBC Earth
 https://stitcher.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=92be6a93-aede-11f0-a32b-421597027c1a
@@ -1876,7 +1876,7 @@ https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Baywatch (21+)
-https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Bollywood HD 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1887,14 +1887,10 @@ https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Buddy Star 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Celestial Classic
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1903,9 +1899,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Cineedge
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1923,37 +1917,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", ETV BIOSKOP 1
-##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", ETV BIOSKOP 2
-##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", ETV BIOSKOP 3
-##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
-
-#EXTINF:-1 group-title="PREMIUM MOVIE", ETV BIOSKOP 4
-##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
-
 #EXTINF:-1 group-title="PREMIUM MOVIE", FX Movie
-https://fl6.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Filem Mantap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Filmrise Horror
-https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Galaxy
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Galaxy Premium
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1968,9 +1946,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Indonesia Movie Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1982,9 +1958,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema Asia
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1997,9 +1971,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", My Family Channel
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2014,9 +1986,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Originals
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Sony Max 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2025,26 +1995,20 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Studio Universal 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd 
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Superrix
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Syfy
-https://fl5.moveonjoy.com/SYFY/index.m3u8
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", TVN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Thriil
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Uniquest
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2054,9 +2018,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Warner TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Zee Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2065,16 +2027,16 @@ https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", eTv Bioskop 1
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", eTv Bioskop 2
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", eTv Bioskop 3
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", eTv Bioskop 4
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
+
 
 
 
@@ -2163,10 +2125,10 @@ http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid
 #################
 
 #EXTINF:-1 group-title="SPORT", Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORT", Billiard TV 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
+
 
 #EXTINF:-1 group-title="SPORT", Eurosport Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
