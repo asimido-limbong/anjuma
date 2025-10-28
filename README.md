@@ -2012,53 +2012,53 @@ https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 ###***RELIGI***###
 ##################
 
-#EXTINF:-1 group-title="RELIGI", Alkerazatv ✝️
+#EXTINF:-1 group-title="RELIGIOUS", Alkerazatv ✝️
 https://hwlive.streamingmediahosting.com/14221-live/0_ahgiewbd/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGI", 3ABN English ✝️
+#EXTINF:-1 group-title="RELIGIOUS", 3ABN English ✝️
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGI", EWTN ✝️ 
+#EXTINF:-1 group-title="RELIGIOUS", EWTN ✝️ 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
 https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
 
-#EXTINF:-1 group-title="RELIGI", Iman TV
+#EXTINF:-1 group-title="RELIGIOUS", Iman TV
 https://live.relentlessinnovations.net:1936/imantv/imantv/index.m3u8
 
-#EXTINF:-1 group-title="RELIGI", Life ✝️
+#EXTINF:-1 group-title="RELIGIOUS", Life ✝️
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/Life/sa_dash/Life.mpd
 
-#EXTINF:-1 group-title="RELIGI", MQTV
+#EXTINF:-1 group-title="RELIGIOUS", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGI", Muslim TV
+#EXTINF:-1 group-title="RELIGIOUS", Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
-#EXTINF:-1 group-title="RELIGI", Quran TV
+#EXTINF:-1 group-title="RELIGIOUS", Quran TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
 
-#EXTINF:-1 group-title="RELIGI", Reformed 21 ✝️
+#EXTINF:-1 group-title="RELIGIOUS", Reformed 21 ✝️
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
 https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
 
-#EXTINF:-1 group-title="RELIGI", Sunna TV
+#EXTINF:-1 group-title="RELIGIOUS", Sunna TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
 
-#EXTINF:-1 group-title="RELIGI", TBN ✝️
+#EXTINF:-1 group-title="RELIGIOUS", TBN ✝️
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
