@@ -1047,34 +1047,26 @@ _____________________________________________________
 #EXTINF:-1 group-title="HBO GROUP", Action Hollywood Movies |🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="HBO GROUP", Cinemax |🇺🇸
-http://212.102.60.231:80/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="HBO GROUP", Cinemax (East) |🇺🇸
+http://visitmy.collegefan.org:80/live/os7148/os1234/814412.ts
+
+#EXTINF:-1 group-title="HBO GROUP", Cinemax (West) |🇺🇸
+http://visitmy.collegefan.org:80/live/os7148/os1234/814422.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO 1 (East) |🇺🇸
-http://212.102.60.231:80/HBO/index.m3u8
+http://visitmy.collegefan.org:80/live/os7148/os1234/814423.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO 1 (West) |🇺🇸
 http://visitmy.collegefan.org:80/live/os7148/os1234/814432.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO 2 |🇺🇸
-http://212.102.60.231/HBO_2/index.m3u8
+http://kstv.us:8080/live/Babeboi11/9785992589/46631.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Comedy (West) |🇺🇸
 http://visitmy.collegefan.org:80/live/os7148/os1234/814427.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Comedy (East) |🇺🇸
 http://visitmy.collegefan.org:80/live/os7148/os1234/814426.ts
-
-_____________________________________________________
-
-#EXTINF:-1 group-title="HBO GROUP", HBO 1 (North) |🇨🇦
-http://xxip25.top:8080/live/char@dot.com/char@14223/57437.ts
-
-#EXTINF:-1 group-title="HBO GROUP", HBO 2 (North) |🇨🇦
-http://xxip25.top:8080/live/char@dot.com/char@14223/57438.ts
-
-
-
 
 
 
