@@ -2009,7 +2009,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
 
 ##################
-###***RELIGI***###
+###***RELIGIOUS***###
 ##################
 
 #EXTINF:-1 group-title="RELIGIOUS", Alkerazatv ✝️
