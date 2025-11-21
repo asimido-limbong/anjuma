@@ -1023,10 +1023,10 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/2490.ts
 http://kstv.us:8080/live/Babeboi11/9785992589/46631.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Comedy (West) |🇺🇸
-http://visitmy.collegefan.org:80/live/os7148/os1234/814427.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/631876.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Comedy (East) |🇺🇸
-http://visitmy.collegefan.org:80/live/os7148/os1234/814426.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/51550.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits (West) |🇺🇸
 http://restream-live.realiptv.to:8080/live/19742329/27604387/553461.ts
