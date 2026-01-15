@@ -722,24 +722,13 @@ http://epg.112114.xyz/douyu/2793084
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Hunan TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf09955f788c43349b677e15bbbc287f:74c70dbe1c0a3d367aab3356d54ccb64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
+
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Jiangsu TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ee5f4313ab54bce9f93cb166ea9d685:010f5ee14b27407c3691f73356ff32b1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
+
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Shenzen TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724
-https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", TVB Xing He
 
@@ -751,11 +740,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Zhejiang TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
 
 
 
@@ -774,7 +759,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 #########################
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Always Funny Videos
-https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Anger Management
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7950-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3058913d-2c94-48ef-9802-0dd55d2f6591
@@ -825,13 +810,13 @@ https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", FYI
-http://kstv.us:8080/live/Babeboi11/9785992589/23308.ts
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV International (21+)
-https://fash5043.bstrm.net/sftv2/44007/hd/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fashion TV Midnight Secrets (21+)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Fear Factor
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
@@ -841,8 +826,6 @@ https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT", Global Fashion Channel
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Hits Now
 
@@ -854,19 +837,13 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playli
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 
 #EXTINF:-1 group-title="ENTERTAINMENT", K+ Korean Entertainment
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", KBS Korea
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", KBS World
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Lifetime
 
@@ -881,8 +858,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 group-title="ENTERTAINMENT", TV5 Monde Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Ubisoft TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
@@ -926,17 +902,17 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="FOOD", Chef vs Chef by Food Network |🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/68bb16a500a2f063fdf89f8c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
-#EXTINF:-1 group-title="FOOD", Delicious Eats by Food Network |🇺🇸
-https://stitcher.pluto.tv/stitch/hls/channel/68bb16ba3efb41cd971f3ce6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
-
 #EXTINF:-1 group-title="FOOD", DENS Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
+#EXTINF:-1 group-title="FOOD", Delicious Eats by Food Network |🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/68bb16ba3efb41cd971f3ce6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
 #EXTINF:-1 group-title="FOOD", Food Network
-http://kstv.us:8080/live/Babeboi11/9785992589/23323.ts
+
 
 #EXTINF:-1 group-title="FOOD", Food Travel
 
@@ -966,41 +942,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/68bb16916523408b14bac7f8/master.m3u
 #####################
 
 #EXTINF:-1 group-title="HBO GROUP", Cinemax |🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO |🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Family |🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits |🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Signature |🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 _____________________________________________________
 
@@ -1020,19 +974,59 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/2491.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2490.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO 2 |🇺🇸
-http://kstv.us:8080/live/Babeboi11/9785992589/46631.ts
 
-#EXTINF:-1 group-title="HBO GROUP", HBO Comedy (West) |🇺🇸
-http://restream-live.realiptv.to:8080/live/19742329/27604387/631876.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Comedy (East) |🇺🇸
 http://restream-live.realiptv.to:8080/live/19742329/27604387/51550.ts
 
-#EXTINF:-1 group-title="HBO GROUP", HBO Hits (West) |🇺🇸
-http://restream-live.realiptv.to:8080/live/19742329/27604387/553461.ts
+#EXTINF:-1 group-title="HBO GROUP", HBO Comedy (West) |🇺🇸
+http://restream-live.realiptv.to:8080/live/19742329/27604387/631876.ts
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits (East) |🇺🇸
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3656.ts
+
+#EXTINF:-1 group-title="HBO GROUP", HBO Hits (West) |🇺🇸
+http://restream-live.realiptv.to:8080/live/19742329/27604387/553461.ts
+
+_____________________________________________________
+
+#EXTINF:-1 group-title="HBO GROUP", Cinemax No Subtitle |🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 group-title="HBO GROUP", HBO No Subtitle |🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+
+#EXTINF:-1 group-title="HBO GROUP", HBO Family No Subtitle |🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+
+#EXTINF:-1 group-title="HBO GROUP", HBO Hits No Subtitle |🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+#EXTINF:-1 group-title="HBO GROUP", HBO Signature No Subtitle |🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
 
 
 
@@ -1412,19 +1406,17 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTINF:-1 group-title="KIDS", Aniplus
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+
 
 #EXTINF:-1 group-title="KIDS", B Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 group-title="KIDS", Baby Shark
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="KIDS", BBC Kids
 https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS", Baby Shark
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS", CBeebies
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1433,21 +1425,10 @@ https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 group-title="KIDS", Cartoon Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+
 
 #EXTINF:-1 group-title="KIDS", Cartoonito
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
 
 #EXTINF:-1 group-title="KIDS", Dora TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
@@ -1465,19 +1446,13 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="KIDS", Horee!
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
 
 #EXTINF:-1 group-title="KIDS", Kids TV
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="KIDS", Mentari TV 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://popmi.my.id/tes.m3u8?id=8237
-http://103.226.232.199:9003/play/a05a/index.m3u8
+
 
 #EXTINF:-1 group-title="KIDS", Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -1561,8 +1536,11 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
 
+#EXTINF:-1 group-title="KNOWLEDGE", CSI
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1
+
 #EXTINF:-1 group-title="KNOWLEDGE", Cold Case Files
-https://livetv-fa.tubi.video/cold-case-files/playlist.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Cops
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1573,8 +1551,6 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE", Crime ThrillHer
 https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE", CSI
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1
 
 #EXTINF:-1 group-title="KNOWLEDGE", DENS Knowledge
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1592,16 +1568,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Channel 
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3826.ts
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Family |🇺🇸
 http://hardcoremedia.xyz:80/live/BG992263/38692743/129865.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Life |🇺🇸
-http://kstv.us:8080/live/Babeboi11/9785992589/23333.ts
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Sciense |🇺🇸
-http://kstv.us:8080/live/Babeboi11/9785992589/15961.ts
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Dog the Bounty Hunter 
 https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
@@ -1610,7 +1586,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Filmrise True Crime
-https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Forensic Files
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
@@ -1622,11 +1598,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", HGTV 
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3836.ts
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", History
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-##http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/144853
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", History Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1637,19 +1612,19 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=92be6a93-aede-11f0-a32b-421597027c1a
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geograpic Wild
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Survivor
-https://stitcher.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", TLC (The Learning Channel)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/48974.ts
+
 
 #EXTINF:-1 group-title="KNOWLEDGE", Unsolved Mysteries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910
@@ -1694,10 +1669,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MUSIC", MTV Live 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
 
 #EXTINF:-1 group-title="MUSIC", Maleo
 
@@ -1710,7 +1682,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTINF:-1 group-title="MUSIC", Musik Indonesia
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+
 
 #EXTINF:-1 group-title="MUSIC",Now 80's
 
@@ -1734,7 +1706,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Vevo 90's
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+
 
 #EXTINF:-1 group-title="MUSIC", Xite Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
@@ -1764,9 +1736,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Bioskop Indonesia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Bollywood HD 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1799,23 +1769,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Cinemaworld
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Citra Bioskop
 
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Citra Drama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Dunia Sinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", FX Movie
 
@@ -1848,9 +1811,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", Indonesia Movie Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", KIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1860,21 +1821,20 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-#EXTINF:-1 group-title="PREMIUM MOVIE", Mediacorp Entertainment English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
-
 #EXTINF:-1 group-title="PREMIUM MOVIE", MOVIES wedotv
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8
 
+#EXTINF:-1 group-title="PREMIUM MOVIE", Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+
 #EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema
 
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema Asia
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
 
 #EXTINF:-1 group-title="PREMIUM MOVIE", My Cinema Europe
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2004,7 +1964,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOUS", Alkerazatv ✝️
-https://hwlive.streamingmediahosting.com/14221-live/0_ahgiewbd/playlist.m3u8
+
 
 #EXTINF:-1 group-title="RELIGIOUS", Dhamma TV 🪷
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
@@ -2013,7 +1973,7 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 
 #EXTINF:-1 group-title="RELIGIOUS", Iman TV
-https://live.relentlessinnovations.net:1936/imantv/imantv/index.m3u8
+
 
 #EXTINF:-1 group-title="RELIGIOUS", Life ✝️
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2045,15 +2005,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
 
-#EXTINF:-1 group-title="RELIGIOUS", Tawaf TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://tvstreamcast.com/tawaftv.m3u8
-
 #EXTINF:-1 group-title="RELIGIOUS", TBN ✝️
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
 
+#EXTINF:-1 group-title="RELIGIOUS", Tawaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://tvstreamcast.com/tawaftv.m3u8
 
 
 
@@ -2114,7 +2073,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 group-title="SPORT", Big Ten Network
-http://kstv.us:8080/live/Babeboi11/9785992589/23355.ts
+
 
 #EXTINF:-1 group-title="SPORT", Billiard TV 
 https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8
@@ -2134,7 +2093,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 https://fl1.moveonjoy.com/GOLF/index.m3u8
 
 #EXTINF:-1 group-title="SPORT", MLB
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 group-title="SPORT", MUTV
 
@@ -2150,14 +2109,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6792c30abc03978b9b8bb
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 group-title="SPORT", PBR Ride Pass
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 group-title="SPORT", PEACOCK SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
 
 #EXTINF:-1 group-title="SPORT", PGA Tour
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -2223,13 +2178,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 group-title="SPORT", Unifi Sports UFC
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+#EXTINF:-1 group-title="SPORT", WWE Network
+
 
 #EXTINF:-1 group-title="SPORT", World Poker Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
-
-#EXTINF:-1 group-title="SPORT", WWE Network
-http://kstv.us:8080/live/Babeboi11/9785992589/47642.ts
 
 
 
