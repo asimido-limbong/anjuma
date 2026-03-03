@@ -1439,7 +1439,6 @@ https://i.klikhost.com/9610/stream
 #################
 
 #EXTINF:-1 group-title="KIDS", 90's Kids
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 
 #EXTINF:-1 group-title="KIDS", Animax
@@ -1472,17 +1471,16 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 group-title="KIDS", Cartoon Network
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+http://kstv.us:8080/live/N427DpynGE/7049166651/47749.ts
 
 #EXTINF:-1 group-title="KIDS", Cartoonito
 
 
 #EXTINF:-1 group-title="KIDS", Dora TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
 
 
 #EXTINF:-1 group-title="KIDS", Dreamworks
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
 
 #EXTINF:-1 group-title="KIDS", EBS Kids
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1556,7 +1554,12 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #####################
 
 #EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-aa
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+http://202.169.224.202:8800/udp/239.9.1.7:1234
 
 #EXTINF:-1 group-title="KNOWLEDGE", BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1570,7 +1573,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 https://op-group1-swiftservehd-1.dens.tv/h/h69/wedotv_big_stories.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Biznet Adventure 
-
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 
 #EXTINF:-1 group-title="KNOWLEDGE", Biznet Lifestyle 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1586,17 +1589,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Cold Case Files
-
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Cops
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE", Crime Investigation
-
+#EXTINF:-1 group-title="KNOWLEDGE", Crime & Investigation
+http://s.rocketdns.info:8080/live/52748969/72335180/20211.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Crime ThrillHer
 https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
-
 
 #EXTINF:-1 group-title="KNOWLEDGE", DENS Knowledge
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1610,25 +1612,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Channel 
-
+http://103.66.62.83:8000/play/a030/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Family |🇺🇸
-http://hardcoremedia.xyz:80/live/BG992263/38692743/129865.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/2598.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Life |🇺🇸
-
+http://s.rocketdns.info:8080/live/52748969/72335180/3858.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Sciense |🇺🇸
-
+http://s.rocketdns.info:8080/live/52748969/72335180/2595.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Dog the Bounty Hunter 
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
-
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", FBI Files
-
-
-#EXTINF:-1 group-title="KNOWLEDGE", Filmrise True Crime
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", Forensic Files
@@ -1645,17 +1643,26 @@ https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", History
-
+http://s.rocketdns.info:8080/live/52748969/72335180/645913.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", History Asia
 aa
 
-#EXTINF:-1 group-title="KNOWLEDGE", Love Nature 4K
-https://stitcher.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=92be6a93-aede-11f0-a32b-421597027c1a
+#EXTINF:-1 group-title="KNOWLEDGE", History Military
+http://s.rocketdns.info:8080/live/52748969/72335180/470622.ts
 
+#EXTINF:-1 group-title="KNOWLEDGE", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE", National Geographic
+#EXTINF:-1 group-title="KNOWLEDGE", National Geographic (West)
+http://s.rocketdns.info:8080/live/52748969/72335180/3838.ts
 
+#EXTINF:-1 group-title="KNOWLEDGE", National Geographic (East)
+http://s.rocketdns.info:8080/live/52748969/72335180/3665.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geograpic Wild
 
@@ -1667,11 +1674,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 
 #EXTINF:-1 group-title="KNOWLEDGE", TLC (The Learning Channel)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47840.ts
 
+#EXTINF:-1 group-title="KNOWLEDGE", True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Unsolved Mysteries
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910
-
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992257
 
 #EXTINF:-1 group-title="KNOWLEDGE", Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
