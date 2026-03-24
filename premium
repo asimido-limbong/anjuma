@@ -1523,6 +1523,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 group-title="KIDS", Tom And Jerry |🇺🇸
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS", VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -1579,8 +1582,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", CSI |🇺🇸
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1
-
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Cold Case Files |🇺🇸
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
@@ -1588,8 +1590,15 @@ https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playl
 #EXTINF:-1 group-title="KNOWLEDGE", Cops |🇺🇸
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="KNOWLEDGE", Crime & Investigation |🇮🇩
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
 #EXTINF:-1 group-title="KNOWLEDGE", Crime & Investigation |🇺🇸
-http://s.rocketdns.info:8080/live/52748969/72335180/20211.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/20211.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Crime ThrillHer |🇺🇸
 https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
@@ -1600,50 +1609,49 @@ https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3
 http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", DMAX TV 
-
+aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Asia
 aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Channel 
-http://103.66.62.83:8000/play/a030/index.m3u8
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3826.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Family |🇺🇸
-http://s.rocketdns.info:8080/live/52748969/72335180/2598.ts
+aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Discovery Life |🇺🇸
-http://s.rocketdns.info:8080/live/52748969/72335180/3858.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3858.ts
 
-#EXTINF:-1 group-title="KNOWLEDGE", Discovery Sciense |🇺🇸
-http://s.rocketdns.info:8080/live/52748969/72335180/2595.ts
+#EXTINF:-1 group-title="KNOWLEDGE", Discovery Science |🇺🇸
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2595.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Dog the Bounty Hunter |🇺🇸 
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", FBI Files |🇺🇸
-
+aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Forensic Files |🇺🇸
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
-
+aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Global Trekker
-
+aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Go USA TV |🇺🇸
 https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", HGTV 
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3836.ts
 
-
-#EXTINF:-1 group-title="KNOWLEDGE", History
-http://s.rocketdns.info:8080/live/52748969/72335180/645913.ts
+#EXTINF:-1 group-title="KNOWLEDGE", History Channel
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/645913.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", History Asia
 aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", History Military
-http://s.rocketdns.info:8080/live/52748969/72335180/470622.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/470622.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1653,19 +1661,19 @@ http://s.rocketdns.info:8080/live/52748969/72335180/470622.ts
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic (East) |🇺🇸
-http://s.rocketdns.info:8080/live/52748969/72335180/3665.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3665.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geographic (West) |🇺🇸
-http://s.rocketdns.info:8080/live/52748969/72335180/3838.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3838.ts
 
 #EXTINF:-1 group-title="KNOWLEDGE", National Geograpic Wild
-
+aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", Outdoor Channel |🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE", Survivor
-
+aa
 
 #EXTINF:-1 group-title="KNOWLEDGE", TLC (The Learning Channel) |🇺🇸
 http://kstv.us:8080/live/N427DpynGE/7049166651/47840.ts
@@ -1705,7 +1713,7 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Clubbing TV
-
+aa
 
 #EXTINF:-1 group-title="MUSIC", Deluxe Music 
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -1715,13 +1723,16 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC", MTV 90's
-
+aa
 
 #EXTINF:-1 group-title="MUSIC", MTV Live 
+aa
 
+#EXTINF:-1 group-title="MUSIC", MC (Music Choice) | Country Hits
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/647319.ts
 
 #EXTINF:-1 group-title="MUSIC", Maleo
-
+aa
 
 #EXTINF:-1 group-title="MUSIC", Music TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1731,22 +1742,22 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTINF:-1 group-title="MUSIC", Musik Indonesia
-
+aa
 
 #EXTINF:-1 group-title="MUSIC",Now 80's
-
+aa
 
 #EXTINF:-1 group-title="MUSIC", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC", POP Music
-
+aa
 
 #EXTINF:-1 group-title="MUSIC", Power TV
-
+aa
 
 #EXTINF:-1 group-title="MUSIC", Retro Music Television
-
+aa
 
 #EXTINF:-1 group-title="MUSIC", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -1754,8 +1765,17 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC", Vevo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Vevo 90's
+#EXTINF:-1 group-title="MUSIC", Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC", Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Vevo Country
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Vevo Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Xite Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
