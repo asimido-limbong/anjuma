@@ -967,19 +967,44 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #####################
 
 #EXTINF:-1 group-title="HBO GROUP", Cinemax |🇮🇩
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO |🇮🇩
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Family |🇮🇩
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits |🇮🇩
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Signature |🇮🇩
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 _____________________________________________________
 
@@ -987,31 +1012,31 @@ _____________________________________________________
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="HBO GROUP", Cinemax (East) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3622.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", Cinemax (West) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3825.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO (East) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3655.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO (West) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2490.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Comedy (East) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/648977.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Comedy (West) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/631876.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits (East) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3656.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits (West) |🇺🇸
 aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Movies (East) |🇺🇸
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/648982.ts
+aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Movies (West) |🇺🇸
 aa
