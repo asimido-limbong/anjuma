@@ -727,7 +727,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Shenzen TV
-
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", TVB Xing He
 
@@ -740,7 +740,7 @@ aa
 
 
 #EXTINF:-1 group-title="CHINA CHANNEL |🇨🇳", Zhejiang TV
-
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
 
 
 
@@ -760,7 +760,7 @@ aa
 #########################
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Always Funny Videos
-https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
+aa
 
 #EXTINF:-1 group-title="ENTERTAINMENT", Anger Management
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
@@ -1032,7 +1032,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits (East) |🇺🇸
-aa
+http://tvsen7.aynascope.net/hbo2/index.m3u8
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Hits (West) |🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1045,7 +1045,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v
 aa
 
 #EXTINF:-1 group-title="HBO GROUP", HBO Movies (West) |🇺🇸
-aa
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 
 _____________________________________________________
